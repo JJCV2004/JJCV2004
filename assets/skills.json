@@ -1,0 +1,12 @@
+{
+  "title": "Technical Competencies",
+  "axes": [
+    { "label": "Java", "value": 85 },
+    { "label": "Python", "value": 80 },
+    { "label": "Linux / Red Hat", "value": 85 },
+    { "label": "Docker", "value": 75 },
+    { "label": "SQL / Databases", "value": 80 },
+    { "label": "Web (HTML/CSS/JS)", "value": 75 },
+    { "label": "IT Management", "value": 85 }
+  ]
+}
